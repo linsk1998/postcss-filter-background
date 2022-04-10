@@ -1,0 +1,7 @@
+.rgba-background {
+	color: #000;
+	background: rgba(0, 0, 255, .5);
+}
+.color {
+	color: red;
+}

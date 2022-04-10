@@ -1,4 +1,4 @@
-# PostCSS Filter Background [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS Logo" width="90" height="90" align="right">][postcss]
+# PostCSS Filter Background <img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS Logo" width="90" height="90" align="right">
 
 [PostCSS](https://github.com/postcss/postcss) plugin to add gradient filter for IE to support rgba background.
 

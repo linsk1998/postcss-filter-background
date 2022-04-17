@@ -1,6 +1,6 @@
 {
 	"name": "postcss-filter-background",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "PostCSS plugin to add gradient filter for IE to support rgba background",
 	"main": "index.js",
 	"scripts": {
